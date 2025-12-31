@@ -2,10 +2,10 @@
 
 This project is developed as part of Hack4Delhi(IEEE NSUT).
 
-Problem Statement->
+# Problem Statement->
 Design a unified HRMS to manage recruitment, attendance, payroll, transfers, performance tracking, grievance redressal, and inter-department coordination for MCD.
 
-Key Modules->
+# Key Modules->
 - Employee Management
 - Attendance & Leave
 - Payroll
@@ -14,7 +14,7 @@ Key Modules->
 - Grievance Redressal
 - Admin Dashboard
 
-Team Members->
+# Team Members->
 - Akansha
 - Deeksha Garg
 - Tannu
