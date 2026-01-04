@@ -1,20 +1,36 @@
-# Unified HRMS Platform for Municipal Corporation of Delhi (MCD)
+# Unified HRMS Platform for MCD
 
-This project is developed as part of Hack4Delhi(IEEE NSUT).
+## Overview
+This project aims to design a unified Human Resource Management System(HRMS) for the Municipal Corporation of Delhi(MCD) to digitize and streamline HR operations across departments and zones.
 
-# Problem Statement->
-Design a unified HRMS to manage recruitment, attendance, payroll, transfers, performance tracking, grievance redressal, and inter-department coordination for MCD.
+The platform focuses on recruitment, attendance, payroll, transfers, performance tracking, grievance redressal, and inter-department coordination.
 
-# Key Modules->
-- Employee Management
-- Attendance & Leave
-- Payroll
-- Transfers & Posting
-- Performance Evaluation
-- Grievance Redressal
-- Admin Dashboard
+## Problem Statement
+MCD manages thousands of employees using fragmented, manual, and department-specific HR processes. This leads to inefficiencies, delays, lack of transparency, and audit challenges.
 
-# Team Members->
+## Proposed Solution
+A centralized, workflow-driven HRMS tailored to municipal hierarchies with role-based access, phased digitization, and audit-ready design.
+
+## Key Modules
+- Recruitment Management  
+- Attendance & Leave 
+- Payroll Management  
+- Transfer & Posting Workflow  
+- Performance Tracking  
+- Grievance Redressal  
+- Admin & Reporting Dashboard  
+
+## Tech Stack (Planned)
+- Backend: Flask (Python)
+- Database: MySQL
+- Frontend: HTML, CSS, JavaScript
+- Authentication: Role-based access control
+
+## Team
+- Team Name: Coders
+- Hackathon: Hack4Delhi
+
+### Team Members
 - Akansha
 - Deeksha Garg
 - Tannu
